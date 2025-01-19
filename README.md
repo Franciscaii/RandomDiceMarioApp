@@ -1,13 +1,13 @@
 # 🌟Lanzamiento de dados aleatorio🎲
 
+## 🎮 Descripción de la funcionalidad
+- Si estás jugando un juego y no tienes dados físicos 🎲, ¡esta app es la solución perfecta!  
+- Al hacer clic en la imagen de Mario Bros 👨‍🎤, los dados 🎲 se lanzan de manera **aleatoria** para proporcionar resultados al instante.
+
 ## 💻 Tecnología utilizada
 - **Lenguaje**: Java  
 - **Interfaz gráfica**: XML  
 - **Plataforma de desarrollo**: Android Studio  
-
-## 🎮 Descripción de la funcionalidad
-- Si estás jugando un juego y no tienes dados físicos 🎲, ¡esta app es la solución perfecta!  
-- Al hacer clic en la imagen de Mario Bros 👨‍🎤, los dados 🎲 se lanzan de manera **aleatoria** para proporcionar resultados al instante.
 
 ## 🎯 Características principales
 1. **Interactividad**:  
