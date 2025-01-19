@@ -6,17 +6,16 @@
 - **Plataforma de desarrollo**: Android Studio  
 
 ## 🎮 Descripción de la funcionalidad
-- Al hacer clic en la imagen de Mario Bros 👨‍🎤, los dados 🎲 se lanzan de manera **aleatoria**.  
-- El objetivo es simular un juego dinámico y entretenido.  
+- Si estás jugando un juego y no tienes dados físicos 🎲, ¡esta app es la solución perfecta!  
+- Al hacer clic en la imagen de Mario Bros 👨‍🎤, los dados 🎲 se lanzan de manera **aleatoria** para proporcionar resultados al instante.
 
 ## 🎯 Características principales
 1. **Interactividad**:  
    La imagen de Mario Bros actúa como el botón principal para lanzar los dados.  
 2. **Aleatoriedad**:  
-   Cada lanzamiento genera combinaciones diferentes de los dados, creando una experiencia única en cada intento.  
-3. **Diseño limpio y divertido**:  
-   La interfaz está diseñada para ser simple y atractiva, centrándose en la experiencia del usuario.  
-
+   Cada lanzamiento genera combinaciones diferentes de los dados, asegurando un resultado justo y único cada vez.   
+3. **Utilidad**:  
+   Ideal para cualquier juego de mesa 🎲 en el que no tengas dados físicos a mano.
 ---
 
 ## 📷 Vista previa 
