@@ -1,7 +1,5 @@
 # 🌟Lanzamiento de dados aleatorio🎲
 
-¡Bienvenido a mi aplicación de Android que combina la nostalgia de Mario Bros 👨‍🎤 con la emoción del lanzamiento de dados! 🎮
-
 ## 💻 Tecnología utilizada
 - **Lenguaje**: Java  
 - **Interfaz gráfica**: XML  
